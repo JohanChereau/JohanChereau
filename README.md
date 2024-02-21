@@ -7,7 +7,7 @@ Web developper
 Hi, I’m Johan, a Web Developer with a knack for creativity and curiosity. I’m passionate about learning something new every day and bringing innovative ideas to life. I love transforming abstract concepts into tangible projects and engaging in discussions about development and the latest tech trends. My expertise lies in the following technologies: - HTML / CSS (SASS) - JavaScript - TypeScript - React - Electron - Tailwind CSS - Bootstrap I believe that the best way to predict the future is to create it. That’s why I’m always ready to dive into new challenges and expand my horizons. Feel free to reach out if you’re interested in collaborating or just want to chat about web development!
 
 * 🌍  I'm based in France
-* 🖥️  See my portfolio at [My portfolio](http://johan-chereau.com)
+* 🖥️  See my portfolio at [johan-chereau.com](http://johan-chereau.com)
 * ✉️  You can contact me at [contact@johan-chereau.com](mailto:contact@johan-chereau.com)
 * 🧠  I'm learning ReactJs
 
