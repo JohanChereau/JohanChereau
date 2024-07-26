@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Johan Chereau
 =====================================================================================================================================
 
-Fullstack developer
+Full Stack developer
 -------------------
 
-Hi, I’m Johan, a Fullstack Web Developer with a knack for creativity and curiosity. I’m passionate about learning something new every day and bringing innovative ideas to life. I love transforming abstract concepts into tangible projects and engaging in discussions about development and the latest tech trends. My expertise lies in the following technologies: Java - TypeScript - React - NextJs - Tailwind CSS. I believe that the best way to predict the future is to create it. That’s why I’m always ready to dive into new challenges and expand my horizons. Feel free to reach out if you’re interested in collaborating or just want to chat about web development!
+Hi, I’m Johan, a full stack developer with a knack for creativity and curiosity. I’m passionate about learning something new every day and bringing innovative ideas to life. I love transforming abstract concepts into tangible projects and engaging in discussions about development and the latest tech trends. My expertise lies in the following technologies: Java - TypeScript - React - NextJs - Tailwind CSS. I believe that the best way to predict the future is to create it. That’s why I’m always ready to dive into new challenges and expand my horizons. Feel free to reach out if you’re interested in collaborating or just want to chat about web development!
 
 * 🌍  I'm based in France
 * 🖥️  See my portfolio at [www.johan-chereau.com](http://johan-chereau.com)
