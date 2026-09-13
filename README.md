@@ -56,19 +56,3 @@
     alt="Productive time"
   />
 </p>
-
-<br>
-
-## Selected work
-
-### [TP-CTCR-Trainer](https://github.com/JohanChereau/TP-CTCR-Trainer)
-
-EdTech platform for CTCR training, featuring interactive lessons, quizzes and practice tools for public transport driver training.
-
-### [Cosmify](https://github.com/JohanChereau/Cosmify)
-
-Desktop application for managing and customizing Minecraft Bedrock skin packs, built with Tauri, Rust and React.
-
-### [Portfolio](https://johan-chereau.com)
-
-Personal portfolio showcasing the software, web and mobile products I build, with a focus on real-world use cases.
